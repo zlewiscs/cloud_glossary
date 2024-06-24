@@ -1,0 +1,19 @@
+| Term                  | Definition                                                                                                                                                      |
+|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| AI                    | Artificial intelligence                                                                                                                                         |
+| Blockchain            | An immutable network allowing members to view only those transactions that are relevant to them                                                                 |
+| Broad Network Access  | Cloud computing resources can be accessed through the network                                                                                                    |
+| Cloud computing       | A model for enabling convenient, on-demand network access to a shared pool of configurable computing resources that can be rapidly provisioned and released with minimal management effort or service provider interaction |
+| GCP                   | Google Cloud Platform                                                                                                                                            |
+| Hypervisor            | A small software layer that enables multiple operating systems to run alongside each other, sharing the same physical computing resources                         |
+| IDC                   | International Data Corporation                                                                                                                                   |
+| IoT                   | Internet of things                                                                                                                                              |
+| Measured Service      | You only pay for what you use or reserve as you go                                                                                                               |
+| NIST                  | National Institute for Standards and Technology                                                                                                                  |
+| PaaS                  | Platform as a service                                                                                                                                           |
+| Pay-As-You-Go         | Users can order cloud resources from a larger pool of available resources and pay for them on a per-use basis                                                    |
+| POP                   | Post office protocol                                                                                                                                            |
+| Rapid elasticity      | You can increase or decrease resources as per your demand because of the elastic property of the cloud                                                          |
+| SaaS                  | Software as a service                                                                                                                                           |
+| Utility model of billing | You are charged after the usage and at the end of the pre-defined period                                                                                         |
+| VM                    | Virtual machine                                                                                                                                                 |
